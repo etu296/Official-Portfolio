@@ -12,7 +12,7 @@
           <div class="info-box">
             <i class="bx bx-map"></i>
             <h3>My Address</h3>
-            <p>A108 Adam Street, New York, NY 535022</p>
+            <p>Uttara Sector-10,Dhaka-1230</p>
           </div>
         </div>
 
@@ -21,11 +21,10 @@
             <i class="bx bx-share-alt"></i>
             <h3>Social Profiles</h3>
             <div class="social-links">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            <a href="https://twitter.com/EtuMahmuda" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/etu.mahmuda" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://github.com/etu296" class="instagram"><i class="bi bi-github"></i></a>
+        <a href="https://www.linkedin.com/in/etu-mahmuda-era-3656761b6" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -34,14 +33,14 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>Email Me</h3>
-            <p>contact@example.com</p>
+            <p>etumahmuda@gmail.com</p>
           </div>
         </div>
         <div class="col-md-6 mt-4 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
             <h3>Call Me</h3>
-            <p>+1 5589 55488 55</p>
+            <p>+8801315655618</p>
           </div>
         </div>
       </div>

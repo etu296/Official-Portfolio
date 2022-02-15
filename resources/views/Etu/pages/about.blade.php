@@ -15,8 +15,7 @@
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
           <h3>Software Engineer &amp;  Web Developer</h3>
           <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
+          To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.
           </p>
           <div class="row">
             <div class="col-lg-6">
@@ -37,8 +36,7 @@
             </div>
           </div>
           <p>
-            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+          Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth.To become a successful expert in the field of Information Technology by channelizing my technical knowledge and skills to ensure personal and professional growth and to contribute to the prosperity of the organization.
           </p>
         </div>
       </div>
@@ -52,7 +50,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
             <i class="bi bi-emoji-smile"></i>
-            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
             <p>Happy Clients</p>
           </div>
         </div>
@@ -60,7 +58,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
           <div class="count-box">
             <i class="bi bi-journal-richtext"></i>
-            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
             <p>Projects</p>
           </div>
         </div>
@@ -68,7 +66,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
           <div class="count-box">
             <i class="bi bi-headset"></i>
-            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+            <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
             <p>Hours Of Support</p>
           </div>
         </div>
@@ -76,8 +74,8 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
           <div class="count-box">
             <i class="bi bi-award"></i>
-            <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Awards</p>
+            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Certificates</p>
           </div>
         </div>
 
@@ -111,15 +109,22 @@
           </div>
 
           <div class="progress">
-            <span class="skill">JavaScript <i class="val">75%</i></span>
+            <span class="skill">Javascript <i class="val">70%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
         </div>
 
         <div class="col-lg-6">
+
+        <div class="progress">
+            <span class="skill">Laravel <i class="val">90%</i></span>
+            <div class="progress-bar-wrap">
+              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+          </div>
 
           <div class="progress">
             <span class="skill">PHP <i class="val">80%</i></span>
@@ -129,16 +134,16 @@
           </div>
 
           <div class="progress">
-            <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+            <span class="skill">WordPress/CMS <i class="val">70%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Photoshop <i class="val">55%</i></span>
+            <span class="skill">Photoshop <i class="val">50%</i></span>
             <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
@@ -233,7 +238,7 @@
     </div><!-- End Interests -->
 
     <!-- ======= Testimonials ======= -->
-    <div class="testimonials container">
+    <!-- <div class="testimonials container">
 
       <div class="section-title">
         <h2>Testimonials</h2>
@@ -253,7 +258,7 @@
               <h3>Saul Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -266,7 +271,7 @@
               <h3>Sara Wilsson</h3>
               <h4>Designer</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -279,7 +284,7 @@
               <h3>Jena Karlis</h3>
               <h4>Store Owner</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -292,7 +297,7 @@
               <h3>Matt Brandon</h3>
               <h4>Freelancer</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
@@ -305,7 +310,7 @@
               <h3>John Larson</h3>
               <h4>Entrepreneur</h4>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
         </div>
         <div class="swiper-pagination"></div>
@@ -315,6 +320,6 @@
 
       </div>
 
-    </div><!-- End Testimonials  -->
+    </div>End Testimonials  -->
 
   </section>

@@ -13,7 +13,7 @@
           <img src="{{url('assets/img/e2.jpg')}}" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <h3>Software &amp; Engineer & Web Developer</h3>
+          <h3>Software Engineer &amp;  Web Developer</h3>
           <p class="fst-italic">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua.

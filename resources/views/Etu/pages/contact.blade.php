@@ -12,7 +12,7 @@
           <div class="info-box">
             <i class="bx bx-map"></i>
             <h3>My Address</h3>
-            <p>Uttara Sector-10,Dhaka-1230</p>
+            <p>Shamoly, Ring Road, Dhaka-1230</p>
           </div>
         </div>
 

@@ -11,10 +11,10 @@
           <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
             <h4>Etu Mahmuda Era</h4>
-            <p><em>Innovative and deadline-driven Web developer with 6 month of experience.</em></p>
+            <p><em>Innovative and deadline-driven Web developer with 1 year of experience.</em></p>
             <p>
             <ul>
-              <li>Uttara,Sector-10,Dhaka</li>
+              <li>Shamoly, Ring Road, Dhaka</li>
               <li>(+88) 01315655618</li>
               <li>etumahmuda@gmail.com</li>
             </ul>
@@ -25,7 +25,7 @@
           
           <div class="resume-item">
             <h4>Bachelor of Computer Science &amp; Engineering</h4>
-            <h5>2018 - 2022</h5>
+            <h5>January 2018 - January 2022</h5>
             <p><em>International University of Business Agriculture & Technology, Uttara,Dhaka</em></p>
             <p>International University of Business Agriculture and Technology is the first non-government university in Bangladesh. It was established in 1991 under the Private University Act of 1992.</p>
           </div>
@@ -34,27 +34,37 @@
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
             <h4>Junior Software Engineer</h4>
+            <h5>Dealdone - The Unifien Seller Center</h5>
             <h5>2022 - Present</h5>
             <p><em>Niketan,Dhaka </em></p>
             <p>
             <ul>
-              <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-              <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-              <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-              <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+              <li>Worked with PHP, Laravel , Javascript , Mysql , apache</li>
+              <li>Contribute to Dealdone official website which handling thousand of  user information </li>
+              <li>Fixed bugs , optimized database query and converted there ui/ux design to raw codebase</li>
+              <li>Worked with Zira , Asana , Gitlab and others</li>
+              <li>Implmented database relationship design with Mysql</li>
+              <li>Developed dropjs , sweetalart</li>
+              <li>Tested API configuration</li>
+              <li>Worked with Multichanelles API integration</li>
             </ul>
             </p>
           </div>
           <div class="resume-item">
             <h4>Trainee Programmer</h4>
+            <h5>Kodeoo Limited</h5>
             <h5>2021-2022</h5>
             <p><em>Housebuilding,uttara,Dhaka</em></p>
             <p>
             <ul>
-              <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-              <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-              <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-              <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              <li>Develop online nursery Management System Project.</li>
+              <li> Develop admin dashboard for backend.</li>
+              <li>Develop CURD operation and middleware.
+              <li> Use package and php artisan commands.</li>
+              <li> Use model migrations, validation, Sanitization.</li>
+              <li>Create cart operation with raw code.</li>
+              <li> Create Authentication with user and admin.</li>
+              <li> Develop user page for frontend and dynamic all data.</li>
             </ul>
             </p>
           </div>

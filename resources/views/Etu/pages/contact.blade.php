@@ -43,9 +43,13 @@
             <p>+8801315655618</p>
           </div>
         </div>
+       
+          
       </div>
-
-      <form action="/store" method="POST"  enctype="multipart/form-data" class="php-email-form mt-4">
+    <br>
+  <div class="col-md-16 mt-4 d-flex align-items-stretch">
+    <div class="info-box">
+      <form action="{{route('message.sent')}}" method="POST"  enctype="multipart/form-data" >
         @csrf
         <div class="row">
           <div class="col-md-6 form-group">
@@ -62,13 +66,28 @@
           <textarea  class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
         </div>
         <div class="my-3">
-          <div class="loading">Loading</div>
-          <div class="error-message"></div>
-          <div class="sent-message">Your message has been sent. Thank you!</div>
-        </div>
-       
-         <button type="submit" class="btn btn-success">Submit</button>
-      </form>
+          
+          <div class="sent-message">
 
+          </div>
+          @if(session()->has('msg'))
+          <div class="alert alert-success">
+              {{ session()->get('msg') }}
+          </div>
+          @endif
+        </div>
+        @if ($errors->any())
+        <div class="alert alert-danger">
+            <ul>
+                @foreach ($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        </div>
+        @endif
+      <button type="submit" class="btn btn-success">Submit</button>
+      </form>
     </div>
-  </section>
+  </div>
+  </div>
+</section>

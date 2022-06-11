@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::post('/store',[ContactController::class,'contactStore'])->name('message.sent');
+

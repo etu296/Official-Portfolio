@@ -9,5 +9,5 @@ class Contact extends Model
 {
     use HasFactory;
     protected $table='contact';
-    protected $guardead=[];
+    protected $fillable=['name' , 'email' , 'subject' , 'message'];
 }
